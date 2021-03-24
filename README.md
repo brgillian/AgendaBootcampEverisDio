@@ -11,7 +11,7 @@ Criar um botão que abra a agenda do Google na tela de criação de eventos com 
 Android Studio v.4.1.3 - API 23: Android 6.0(Marshmallow)
 
 ## Screenshot do projeto
-![](img/screenshot.png)
+![](img/screenshot.PNG)
 
 
 
